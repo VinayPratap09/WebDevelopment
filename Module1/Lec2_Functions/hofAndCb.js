@@ -5,8 +5,8 @@
 // Functions which are passed as a argument in a high order function
 
 
-function getFirstName(fullName){
-    // "Steve Rogers"
+function getFirstName(fullName){ 
+    // "Steve Rogers" //
     // split function
     fullName = fullName.split(" ");
     // [ "Steve" , "Rogers" ];
