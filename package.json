@@ -1,7 +1,6 @@
 {
   "name": "Development",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.10"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinaythakur09/WebDevelopment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vinaythakur09/WebDevelopment/issues"
+  },
+  "homepage": "https://github.com/Vinaythakur09/WebDevelopment#readme",
+  "description": ""
 }
