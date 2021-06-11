@@ -11,3 +11,4 @@ fs.readFile("./f2.txt", function (err, data) {
 fs.readFile("./f3.txt", function (err, data) {
   console.log(data + "");
 });
+// 
