@@ -1,6 +1,6 @@
 // function body
 
-// callMe();
+ callMe();
 
 function callMe( name ){
     console.log("Call me function called !!");
@@ -20,12 +20,14 @@ function callMe( name ){
 
 
 // let sayHi; // undefined
-
-sayHi();
+sy();
+function sy (){
+    console.log("Function sy says Hiii !!!");
+}
 
 // valid syntax
 let sayHi = function(){
     console.log("Function says Hiii !!!");
 }
 
-// sayHi();
+sayHi();
