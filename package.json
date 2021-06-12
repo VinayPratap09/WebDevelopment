@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.10"
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2",
+    "require": "^2.4.20"
   },
   "devDependencies": {},
   "repository": {
