@@ -1,4 +1,5 @@
-# Git Steps
+## Hey guys here we learn basics about javascript and all.
+<!-- # Git Steps
 
 # First Time
 * git config --global user.name "name"
@@ -11,4 +12,4 @@
 # Always Steps
 * git add .
 * git commit -m "git message"
-* git push -u origin master
+* git push -u origin master -->

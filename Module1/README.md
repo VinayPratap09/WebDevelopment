@@ -1,1 +1,0 @@
-## Hey guys here we learn basics about javascript and all.
