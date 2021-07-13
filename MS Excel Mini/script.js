@@ -13,6 +13,7 @@ cellSection.addEventListener("scroll", function (e) {
   columnTagsSection.style.transform = `translateX(-${e.currentTarget.scrollLeft}px)`; 
   //console.log("Scrolling");
 });
+//h
 
 for (let i = 1; i <= 100; i++) {
   let div = document.createElement("div");
