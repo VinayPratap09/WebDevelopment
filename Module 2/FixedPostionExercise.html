@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+  *{
+      box-sizing: border-box;
+    }
+  body{
+      margin: 0;
+      height: 100vh;
+      width: 100vw;
+      /* display: flex;
+      align-items: center;
+      justify-content: center; */
+      background-color: beige;
+  }
+  .container{
+    height: 20rem;
+        width: 20rem;
+        background-color: indianred;
+        position: fixed;
+        top: 50vh;
+        left: 50vw;
+        transform: translate(-50%, -50%);
+  }
+.box1,.box2,.box3{
+    height: 10rem;
+        width: 10rem;
+        position: fixed;
+}
+.box1{
+    left: 0;
+        top: 0;
+        background-color: indigo;
+}
+.box3{
+    bottom: 0;
+        right: 0;
+        background-color: lawngreen;
+}
+  .box2{
+    background-color: blue;
+        top: 10rem;
+        left: 10rem;
+        transform: translate(-50%, -50%);
+  }
+
+  /* .box1{
+      height:10rem;
+      width: 10rem;
+      flex-shrink: 0;
+      background-color: blue;
+     
+  }
+  .box2{
+      height:10rem;
+      width: 10rem;
+      background-color: red;
+      position: relative;
+      flex-shrink: 0;
+      left: -5rem;
+      top: 5rem;
+  }
+  .box3{                    
+      height:10rem;
+      width: 10rem;
+      flex-shrink: 0;
+      background-color: yellow;
+      position: relative;
+      left: -10rem;
+      top: 10rem;
+  } */
+
+    </style>
+</head>
+<body>
+     <div class="container">
+        <div class="box1"></div>
+        <div class="box2"></div>
+        <div class="box3"></div>
+    </div>
+</body>
+</html>
